@@ -5,5 +5,3 @@
 # Ekran görüntüsü
 
 # ![](menu.gif)
-# Spotify-clone
-# Menu
